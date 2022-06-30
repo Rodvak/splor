@@ -1,6 +1,6 @@
 # RANDOMRE
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project allows the user to generate a random recipe with instructions and servings. [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
