@@ -11,11 +11,8 @@ This project allows the user to generate a random recipe with instructions and s
 
 <ul>
   <li>JavaScript</li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Express.js</li>
+  <li>React.js</li>
+  <li>MongoDB </li>
 </ul>
-JavaScript 
-Express.js
-React.js
-MongoDB 
+
