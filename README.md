@@ -1,9 +1,8 @@
 # RANDOMRE
 
 This project allows the user to generate a random recipe with instructions and servings.
-## Available Scripts
+## Features
 
-In the project directory, you can run:
 
 ### Features
 
