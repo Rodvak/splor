@@ -9,6 +9,12 @@ This project allows the user to generate a random recipe with instructions and s
 
 ### Technologies Used
 
+<ul>
+  <li>JavaScript</li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
 JavaScript 
 Express.js
 React.js
