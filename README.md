@@ -8,3 +8,8 @@ This project allows the user to generate a random recipe with instructions and s
 
 
 ### Technologies Used
+
+JavaScript 
+Express.js
+React.js
+MongoDB 
